@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/sregex (fetch)
+origin	git@github.com:skyportsystems/sregex (push)
+upstream	https://github.com/openresty/sregex.git (fetch)
+upstream	https://github.com/openresty/sregex.git (push)
